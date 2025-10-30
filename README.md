@@ -26,15 +26,11 @@ The system has three main parts:
 
 ---
 
-## 3. Folder Structure
+## Architecture
+![Architecture](image1.png)
 
-CoverageX/
-├── COVERAGEX-BACKEND/ # Spring Boot API + Docker Compose
-│ ├── Dockerfile
-│ ├── docker-compose.yml
-│ └── src/...
-└── COVERAGEX-FRONTEND/ # React (Vite) frontend + Nginx server
-└── Dockerfile
+## Folder Structure
+![Folder Structure](image2.png)
 
 
 
